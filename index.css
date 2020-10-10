@@ -52,7 +52,7 @@ html, body, div, span, applet, object, iframe,
      align-items: left;
      flex-direction: column;
     height: 100%;
-    background-image:url(C:Users/josie/Desktop/practicaviernes/imagenes/pex2.jpg);
+    background-image:url(./pex2.jpg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -141,7 +141,7 @@ html, body, div, span, applet, object, iframe,
     width: 90%;
     height: 10.86rem;
     background-color: grey;
-    background-image: url(C:/Users/josie/Desktop/practicaviernes/imagenes/archie.jpg);
+    background-image: url(./archie.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
